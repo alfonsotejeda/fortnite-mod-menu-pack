@@ -1,6 +1,6 @@
 # Fortnite Multi-Cheat Pack — Free Download
 
-![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square) ![Price](https://img.shields.io/badge/Price-Free-success?style=flat-square) ![Type](https://img.shields.io/badge/Type-Game Tool-E53935?style=flat-square)
+![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square) ![Price](https://img.shields.io/badge/Price-Free-success?style=flat-square) ![Type](https://img.shields.io/badge/Type-Game_Tool-E53935?style=flat-square)
 
 The **Fortnite Enhancer Pack** bundles every popular feature into one tool: aimbot, visual ESP, triggerbot, no-recoil, radar and more. Works with the latest Fortnite build. **Free, portable, updated regularly.**
 
@@ -133,5 +133,3 @@ simply how these tools work in practice.
 ---
 
 *fortnite-mod-menu-pack · Updated 2026-10-24 · Shared under the MIT License*
-
-<!-- rev 2026-10-24 -->
