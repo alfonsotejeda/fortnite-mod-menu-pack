@@ -132,4 +132,4 @@ simply how these tools work in practice.
 
 ---
 
-*fortnite-mod-menu-pack · Updated 2026-10-24 · Shared under the MIT License*
+*fortnite-mod-menu-pack · Updated 2026-10-25 · Shared under the MIT License*
